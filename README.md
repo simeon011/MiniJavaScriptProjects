@@ -6,8 +6,11 @@ Enjoy🤗
 
 <details>
   <summary>1. 🧙Spellbook Unraveling</summary>
- This project is a **string manipulation program** built with JavaScript (ES6).  
+  
+ This project is a **string manipulation program** built with JavaScript (ES6).
+ 
 It demonstrates how commands can dynamically modify a text string.  
+
 The program runs in the console and is useful for **educational purposes**, **algorithm practice**, or as a **subcomponent in text-processing applications**.
 
 ---
@@ -78,6 +81,12 @@ It can be used for **demonstration purposes**, **educational projects**, or as a
 ---
 
 📷 **Preview**
+
+<img width="500" height="877" alt="image" src="https://github.com/user-attachments/assets/0c296c6b-abb7-4e81-be79-e1cd350e8280" />
+<img width="500" height="881" alt="image" src="https://github.com/user-attachments/assets/46907958-8614-4e1e-9547-d95352245e0e" />
+<img width="500" height="877" alt="image" src="https://github.com/user-attachments/assets/63d653ca-b710-42ad-ae53-03a349e63614" />
+
+
 
 
 
