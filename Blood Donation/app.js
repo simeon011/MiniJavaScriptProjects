@@ -82,3 +82,4 @@ function solve() {
     }
   }
 }
+//pravq promqna
