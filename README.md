@@ -43,8 +43,41 @@ solve([
 ## 📷 Preview final result
 
 <img width="355" height="125" alt="image" src="https://github.com/user-attachments/assets/5ad3f723-6cfd-49f9-bdcc-3543470cba46" />
-
-
-
-
 </details>
+
+<details>
+<summary>2. 🩸Blood Donation</summary>
+
+  This project is a **responsive blood donor registration application**, built with **HTML5, CSS3, and JavaScript (ES6)**. 
+  
+  
+👉 It was developed as a **home practice exercise in JavaScript**, with the goal of improving skills in DOM manipulation, event handling, and interactive UI building.  
+
+The app allows users to enter their personal details (blood type, age, gender) and manage donor entries through an interactive interface.  
+It can be used for **demonstration purposes**, **educational projects**, or as a **starting point for healthcare-related web apps**.  
+
+---
+
+🎯 **Features**
+- Clean and structured donor registration form  
+- Add donor entries to a **Pending Donor List**  
+- Edit previously entered donor information  
+- Confirm donors and move them to the **Confirmed List**  
+- Clear donors from the confirmed list  
+- Client-side validation (prevents empty submissions)  
+- Responsive and accessible layout  
+
+---
+
+🛠️ **Technologies Used**
+- **HTML5**  
+- **CSS3 (Flexbox + media queries)**  
+- **Google Fonts (Signika)**  
+- **JavaScript (ES6)**  
+
+---
+
+📷 **Preview**
+
+
+
