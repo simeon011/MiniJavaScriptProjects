@@ -82,5 +82,3 @@ function solve() {
     }
   }
 }
-//pravq promqna
-//vtora promqna
