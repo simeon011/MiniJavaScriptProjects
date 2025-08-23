@@ -89,8 +89,49 @@ Enjoy🤗
 </details>
 
 <details>
-  <summary>3. 🏠Adopt Pet</summary>
+  <summary>3. 🐾Adopt Pet</summary>
 
+  This project is a **responsive pet adoption application**, built with **HTML5, CSS3, and JavaScript (ES6)**.
+
+  👉 It was developed as a home practice exercise in **JavaScript**, with the goal of improving skills in DOM manipulation, event handling, and interactive UI building.
+
+  The app allows users to enter pet details (type, age, gender) and manage adoption entries through an interactive interface.
+  It can be used for **demonstration purposes, educational projects,** or as a **starting point for animal shelter web apps.**
+
+  ---
+
+  🎯 **Features**
+
+   - Clean and structured adoption form
+
+   - Add pet entries to a Pending Adoption List
+
+   - Edit previously entered pet information
+
+   - Confirm adoption and move pets to the Adopted List
+
+   - Clear pets from the adopted list
+
+   - Client-side validation (prevents empty submissions)
+
+   - Responsive and accessible layout
+
+  ---
+
+  🛠️ **Technologies Used**
+
+   - HTML5
+
+   - CSS3 (Flexbox + media queries)
+
+   - Google Fonts (Lily Script One)
+
+   - JavaScript (ES6)
+
+  --- 
+
+  📷 **Preview**
+  
 </details>
 
 
