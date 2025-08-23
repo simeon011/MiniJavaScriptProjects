@@ -61,7 +61,7 @@ Enjoy🤗
 
   ---
 
-  🎯 **Features**
+  ## 🎯 Features
   - Clean and structured donor registration form  
   - Add donor entries to a **Pending Donor List**  
   - Edit previously entered donor information  
@@ -72,7 +72,7 @@ Enjoy🤗
 
   ---
 
-  🛠️ **Technologies Used**
+  ## 🛠️ Technologies Used
   - **HTML5**  
   - **CSS3 (Flexbox + media queries)**  
   - **Google Fonts (Signika)**  
@@ -80,7 +80,7 @@ Enjoy🤗
 
   ---
 
-  📷 **Preview**
+  ## 📷 Preview
 
   <img width="500" height="877" alt="image" src="https://github.com/user-attachments/assets/0c296c6b-abb7-4e81-be79-e1cd350e8280" />
   <img width="500" height="881" alt="image" src="https://github.com/user-attachments/assets/46907958-8614-4e1e-9547-d95352245e0e" />
@@ -100,7 +100,7 @@ Enjoy🤗
 
   ---
 
-  🎯 **Features**
+  ## 🎯 Features
 
    - Clean and structured adoption form
 
@@ -118,7 +118,7 @@ Enjoy🤗
 
   ---
 
-  🛠️ **Technologies Used**
+  ## 🛠️ Technologies Used
 
    - HTML5
 
@@ -130,8 +130,13 @@ Enjoy🤗
 
   --- 
 
-  📷 **Preview**
-  
+  ## 📷 Preview
+  <img width="500" height="857" alt="image" src="https://github.com/user-attachments/assets/25989421-b6e3-496a-82f4-b608b6a960a2" />
+  <img width="500" height="810" alt="image" src="https://github.com/user-attachments/assets/56485ce6-68a2-4e85-97a3-3baa4b7262a9" />
+  <img width="500" height="847" alt="image" src="https://github.com/user-attachments/assets/2ee5a747-ff43-4d7d-abf5-40dad3c8f4bb" />
+
+
+
 </details>
 
 
