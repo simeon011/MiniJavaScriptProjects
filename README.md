@@ -89,7 +89,7 @@ Enjoy🤗
 </details>
 
 <details>
-  3. 🏠Adopt Pet
+  <summary>3. 🏠Adopt Pet</summary>
 
 </details>
 
