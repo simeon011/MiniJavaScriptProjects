@@ -86,7 +86,7 @@ It can be used for **demonstration purposes**, **educational projects**, or as a
 <img width="500" height="881" alt="image" src="https://github.com/user-attachments/assets/46907958-8614-4e1e-9547-d95352245e0e" />
 <img width="500" height="877" alt="image" src="https://github.com/user-attachments/assets/63d653ca-b710-42ad-ae53-03a349e63614" />
 
-
+</details>
 
 
 
