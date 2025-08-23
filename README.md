@@ -51,7 +51,7 @@ Enjoy🤗
 <details>
   <summary>2. 🩸Blood Donation</summary>
 
-    This project is a **responsive blood donor registration application**, built with **HTML5, CSS3, and JavaScript (ES6)**. 
+  This project is a **responsive blood donor registration application**, built with **HTML5, CSS3, and JavaScript (ES6)**. 
     
     
   👉 It was developed as a **home practice exercise in JavaScript**, with the goal of improving skills in DOM manipulation, event handling, and interactive UI building.  
@@ -85,6 +85,11 @@ Enjoy🤗
   <img width="500" height="877" alt="image" src="https://github.com/user-attachments/assets/0c296c6b-abb7-4e81-be79-e1cd350e8280" />
   <img width="500" height="881" alt="image" src="https://github.com/user-attachments/assets/46907958-8614-4e1e-9547-d95352245e0e" />
   <img width="500" height="877" alt="image" src="https://github.com/user-attachments/assets/63d653ca-b710-42ad-ae53-03a349e63614" />
+
+</details>
+
+<details>
+  3. 🏠Adopt Pet
 
 </details>
 
