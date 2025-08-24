@@ -139,5 +139,76 @@ Enjoy🤗
 
 </details>
 
+<details>
+  <summary>4. 📇Contact List</summary>
+
+  This project is a **responsive contact management application**, built with **HTML5, CSS3, and JavaScript (ES6)**.
+
+  👉 It was developed as a home practice exercise in JavaScript, with the goal of improving skills in **DOM manipulation, event handling,** and **interactive UI design**.
+
+  The app allows users to enter contact details (name, phone, category) and manage them through an interactive interface.
+  It can be used for demonstration purposes, educational projects, or as a lightweight starting point for contact management tools.
+
+  --- 
+
+  ## 🎯 Features
+
+   - Clean and structured Add Contact Form
+
+   - Add entries to a Check List (temporary preview)
+
+   - Edit button – returns data back to the form for corrections
+
+   - Save button – confirms and moves a contact to the Contact List
+
+   - Delete button – permanently removes a contact from the list
+
+   - Client-side validation (prevents empty submissions)
+
+   - Responsive and accessible layout
+
+  ---
+
+  ## 🛠️ Technologies Used
+
+   - **HTML5** – page structure and forms
+
+   - **CSS3** – styling and responsive design:
+
+    - gradients, background image, custom shapes (clip-path)
+
+    - button styling with icons (add.png, edit.png, save.png, delete.png)
+
+   - **JavaScript (ES6)** – app logic:
+
+    - add, edit, save, delete contact entries dynamically
+
+    - event listeners for interactive UI
+  
+  ---
+
+  ## 📂 Project Structure
+
+     - **index.html** – main page containing the form and two sections (Check and Contacts)
+
+     - **app.js** – JavaScript logic for adding, editing, saving, and deleting contacts
+
+     - **styles.css** – styles, responsive design, gradients, icons
+
+     - **images/** – icons and assets (add.png, edit.png, delete.png, save.png, clean-btn.png, bg.png, pexels-gustavo-fring-3890198.jpg)
+
+  ---   
+
+  ## 📱 Responsive Design
+
+   - On wide screens, the form and lists are placed side by side.
+
+   - On smaller screens (below 1000px), layout rearranges vertically for mobile-friendly use.
+
+  ---
+
+  ## 📷 Preview
+</details>
+
 
 
