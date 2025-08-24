@@ -174,28 +174,28 @@ Enjoy🤗
    - **HTML5** – page structure and forms
 
    - **CSS3** – styling and responsive design:
+     
+      - gradients, background image, custom shapes (clip-path)
 
-    - gradients, background image, custom shapes (clip-path)
-
-    - button styling with icons (add.png, edit.png, save.png, delete.png)
+      - button styling with icons (add.png, edit.png, save.png, delete.png)
 
    - **JavaScript (ES6)** – app logic:
 
-    - add, edit, save, delete contact entries dynamically
+      - add, edit, save, delete contact entries dynamically
 
-    - event listeners for interactive UI
+      - event listeners for interactive UI
   
   ---
 
   ## 📂 Project Structure
 
-     - **index.html** – main page containing the form and two sections (Check and Contacts)
+  - **index.html** – main page containing the form and two sections (Check and Contacts)
 
-     - **app.js** – JavaScript logic for adding, editing, saving, and deleting contacts
+  - **app.js** – JavaScript logic for adding, editing, saving, and deleting contacts
 
-     - **styles.css** – styles, responsive design, gradients, icons
+  - **styles.css** – styles, responsive design, gradients, icons
 
-     - **images/** – icons and assets (add.png, edit.png, delete.png, save.png, clean-btn.png, bg.png, pexels-gustavo-fring-3890198.jpg)
+  - **images/** – icons and assets (add.png, edit.png, delete.png, save.png, clean-btn.png, bg.png, pexels-gustavo-fring-3890198.jpg)
 
   ---   
 
@@ -208,6 +208,12 @@ Enjoy🤗
   ---
 
   ## 📷 Preview
+<img width="500" height="782" alt="image" src="https://github.com/user-attachments/assets/55efa73f-82d4-4ebd-9e3c-dd7b4460abb2" />
+<img width="500" height="832" alt="image" src="https://github.com/user-attachments/assets/c4dbdf64-acb3-4fa9-a0fa-2966ec67f63e" />
+<img width="500" height="815" alt="image" src="https://github.com/user-attachments/assets/5c8a1c8e-f099-4b92-b9ff-e9ceeb8ac3e8" />
+
+
+
 </details>
 
 
