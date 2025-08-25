@@ -218,6 +218,8 @@ Enjoy🤗
 
 <details>
   <summary>5.  🎬Movie Watchlist</summary>
+  
+ ---
 
   This project is a **responsive movie management web application**, built with **HTML5, CSS3, and JavaScript (ES6)**.
 
