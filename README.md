@@ -217,9 +217,36 @@ Enjoy🤗
 </details>
 
 <details>
-  <summary>5.  📋Movie Watchlist</summary>
-  
-  
+  <summary>5.  🎬Movie Watchlist</summary>
+
+  This project is a **responsive movie management web application**, built with **HTML5, CSS3, and JavaScript (ES6)**.
+
+  👉 It was developed as a practice exercise to improve skills in **REST API integration, CRUD operations, DOM manipulation, and interactive UI design**.
+
+  ⚠️ **Note**: The server ```js(server.js)``` was **pre-built and provided** as part of the exercise. I did not work on or modify the backend implementation – my task focused only on building the **front-end logic and UI**.
+
+  The app allows users to add, edit, delete, and view movies they want to watch. It can be used for demonstration purposes, educational projects, or as a starting point for a personal media library.
+
+  ---
+
+  ## 🎯 Features
+
+   - Clean and structured **Add Movie Form**
+
+   - **Load Movies** button fetches the movie list from the server
+
+   - **Add Movie** – create a new movie entry with title, director, and release year
+
+   - **Edit Movie** – update an existing movie’s details
+
+   - **Delete Movie** – remove a movie from the list
+
+   - Dynamic rendering of movies with title, director, and year
+
+   - Validation (prevents adding empty fields)
+
+   - Responsive, Netflix-inspired UI with custom styles
+
 </details>
 
 
