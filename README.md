@@ -6,6 +6,8 @@ Enjoy🤗
 
 <details>
   <summary>1. 🧙Spellbook Unraveling</summary>
+
+  ---
   
  This project is a **string manipulation program** built with JavaScript (ES6).
  
@@ -51,6 +53,8 @@ Enjoy🤗
 <details>
   <summary>2. 🩸Blood Donation</summary>
 
+  ---
+
   This project is a **responsive blood donor registration application**, built with **HTML5, CSS3, and JavaScript (ES6)**. 
     
     
@@ -90,6 +94,8 @@ Enjoy🤗
 
 <details>
   <summary>3. 🐾Adopt Pet</summary>
+
+  ---
 
   This project is a **responsive pet adoption application**, built with **HTML5, CSS3, and JavaScript (ES6)**.
 
@@ -141,6 +147,8 @@ Enjoy🤗
 
 <details>
   <summary>4. 📇Contact List</summary>
+
+  ---
 
   This project is a **responsive contact management application**, built with **HTML5, CSS3, and JavaScript (ES6)**.
 
@@ -218,7 +226,7 @@ Enjoy🤗
 
 <details>
   <summary>5.  🎬Movie Watchlist</summary>
-  
+
  ---
 
   This project is a **responsive movie management web application**, built with **HTML5, CSS3, and JavaScript (ES6)**.
