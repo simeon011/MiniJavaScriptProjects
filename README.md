@@ -223,7 +223,7 @@ Enjoy🤗
 
   👉 It was developed as a practice exercise to improve skills in **REST API integration, CRUD operations, DOM manipulation, and interactive UI design**.
 
-  ⚠️ **Note**: The server ```js(server.js)``` was **pre-built and provided** as part of the exercise. I did not work on or modify the backend implementation – my task focused only on building the **front-end logic and UI**.
+  ⚠️ **Note**: The server ```(server.js)``` was **pre-built and provided** as part of the exercise. I did not work on or modify the backend implementation – my task focused only on building the **front-end logic and UI**.
 
   The app allows users to add, edit, delete, and view movies they want to watch. It can be used for demonstration purposes, educational projects, or as a starting point for a personal media library.
 
