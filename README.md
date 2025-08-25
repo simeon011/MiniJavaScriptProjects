@@ -208,9 +208,9 @@ Enjoy🤗
   ---
 
   ## 📷 Preview
-<img width="500" height="782" alt="image" src="https://github.com/user-attachments/assets/55efa73f-82d4-4ebd-9e3c-dd7b4460abb2" />
-<img width="500" height="832" alt="image" src="https://github.com/user-attachments/assets/c4dbdf64-acb3-4fa9-a0fa-2966ec67f63e" />
-<img width="500" height="815" alt="image" src="https://github.com/user-attachments/assets/5c8a1c8e-f099-4b92-b9ff-e9ceeb8ac3e8" />
+  <img width="500" height="782" alt="image" src="https://github.com/user-attachments/assets/55efa73f-82d4-4ebd-9e3c-dd7b4460abb2" />
+  <img width="500" height="832" alt="image" src="https://github.com/user-attachments/assets/c4dbdf64-acb3-4fa9-a0fa-2966ec67f63e" />
+  <img width="500" height="815" alt="image" src="https://github.com/user-attachments/assets/5c8a1c8e-f099-4b92-b9ff-e9ceeb8ac3e8" />
 
 
 
@@ -218,6 +218,8 @@ Enjoy🤗
 
 <details>
   <summary>5.  📋Movie Watchlist</summary>
+  
+  
 </details>
 
 
