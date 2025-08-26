@@ -300,6 +300,7 @@ Enjoy🤗
 ---
 
 ## 📷 Preview
+<img width="500" height="828" alt="image" src="https://github.com/user-attachments/assets/dbd3afd7-63e7-43f7-9019-d90c71883b7a" />
 
 </details>
 
