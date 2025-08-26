@@ -257,6 +257,50 @@ Enjoy🤗
 
    - Responsive, Netflix-inspired UI with custom styles
 
+  ---
+
+  ## 🛠️ Technologies Used
+
+   - **HTML5** – page structure
+
+   - **CSS3** – modern styling and responsive design (backgrounds, hover effects, Netflix-inspired theme)
+
+   - **JavaScript (ES6)** – front-end logic:
+
+      - DOM manipulation & event listeners
+
+      - CRUD operations with Fetch API (GET, POST, PUT, DELETE)
+
+   - **Node.js JSON Server** – provided backend for REST API (not developed by me)
+
+   - **JSON Data Storage** – movies are saved in movies.json
+
+   - **Testing** – end-to-end tests with Playwright & Mocha
+
+  ---
+
+  ## 📂 Project Structure
+
+   - **ndex.html** – main page with form and movie list
+
+   - **app.js** – JavaScript logic for movie CRUD functionality
+
+   - **style.css** – Netflix-inspired styles and responsive design
+
+   - **server.js** – pre-built server with REST API support (provided, not my work)
+
+   - **movies.json** – sample JSON movie dataset
+
+   - **e2e.test.js** – automated end-to-end tests
+
+   - **package.json** – project configuration & dependencies
+
+   - **/img/** – background and UI assets (bg.webp, cover.png, Load Movie.png)
+
+---
+
+## 📷 Preview
+
 </details>
 
 
