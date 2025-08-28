@@ -305,7 +305,7 @@ Enjoy🤗
 </details>
 
 <details>
-  <summary>6. </summary>
+  <summary>6. 🏃🏽The Step-Challenge</summary>
 </details>
 
 
