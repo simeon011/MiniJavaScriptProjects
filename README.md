@@ -395,9 +395,9 @@ Enjoy🤗
 
   **JavaScript (ES6)** – front-end logic:
 
-      - DOM manipulation and event handling
+  - DOM manipulation and event handling
 
-      - CRUD operations with Fetch API (GET, POST, PATCH, DELETE)
+  - CRUD operations with Fetch API (GET, POST, PATCH, DELETE)
 
   **Node.js JSON Server** – provided backend for REST API (not developed by me)
 
@@ -434,11 +434,11 @@ Enjoy🤗
 2.  Clicking Add Record sends a POST request and adds a new record.
 
 3.  Clicking Load Records fetches and shows all saved records.
-
+   
 4.  Each record includes:
-Change (Edit) → loads data into the form for updating.
-
-Delete → removes the record from the server and UI.
+     - Change (Edit) → loads data into the form for updating.
+     
+     - Delete → removes the record from the server and UI.
 
 5.  Edit Record button updates the entry (via PATCH request).
 
