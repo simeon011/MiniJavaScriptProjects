@@ -401,7 +401,7 @@ Enjoy🤗
 
   **Node.js JSON Server** – provided backend for REST API (not developed by me)
 
-  **JSON Storage** – records saved in records.json
+  **JSON Storage** – records saved in ```records.json```
 
   **Testing** – automated end-to-end tests with Playwright, Mocha, and Chai
 
@@ -421,9 +421,9 @@ Enjoy🤗
 
  - **e2e.test.js** – end-to-end tests with Playwright
 
- - **package.json** – dependencies & scripts (http-server, mocha, chai, playwright-chromium)
+ - **package.json** – dependencies & scripts (```http-server```, ```mocha```, ```chai```, ```playwright-chromium```)
 
- - **/img/** – background & UI assets (bg-img.png, shoe.png)
+ - **/img/** – background & UI assets (```bg-img.png```, ```shoe.png```)
 
 ---
 
