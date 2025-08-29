@@ -445,6 +445,8 @@ Enjoy🤗
 --- 
 
 ## 📷 Preview
+<img width="600" height="850" alt="image" src="https://github.com/user-attachments/assets/103ce8e8-2167-4c14-8068-fb8e4741faf0" />
+
 
 </details>
 
