@@ -134,7 +134,23 @@ Enjoy🤗
 
    - JavaScript (ES6)
 
-  --- 
+  ---
+
+  ## 🚀 How It Works
+
+  1. The user fills out the adoption form with the pet’s details.
+
+  2. Clicking Adopt! adds the pet to the “Check Info” list.
+
+  3. From there:
+
+    - Edit returns the data to the form for corrections.
+
+    - Done moves the pet to the “Adopted Pets” list.
+
+    - Clear deletes the pet permanently.
+
+  ---
 
   ## 📷 Preview
   <img width="500" height="857" alt="image" src="https://github.com/user-attachments/assets/25989421-b6e3-496a-82f4-b608b6a960a2" />
@@ -212,6 +228,22 @@ Enjoy🤗
    - On wide screens, the form and lists are placed side by side.
 
    - On smaller screens (below 1000px), layout rearranges vertically for mobile-friendly use.
+
+  ---
+
+  ## 🚀 How It Works
+
+  1. User enters a name, phone, and category.
+
+  2. Clicking the Add button places the contact into the Check List.
+
+  3. From there:
+
+    - Edit → removes the entry and puts the values back into the form.
+
+    - Save → moves the entry to the Contact List.
+
+    - Delete → permanently removes the entry.
 
   ---
 
@@ -299,6 +331,24 @@ Enjoy🤗
 
 ---
 
+## 🚀 How It Works
+
+1. User fills in the form (title, director, year).
+
+2. Clicking Add Movie sends a POST request to the server and reloads the list.
+
+3. Clicking Load Movies fetches and displays all movies from movies.json.
+
+4. Each movie has two buttons:
+
+   - Change (Edit) → loads movie data back into the form for updates.
+
+   - Delete → removes the movie from both UI and backend.
+
+5. Edit Movie button updates the selected movie entry (via PUT request).
+
+---
+
 ## 📷 Preview
 <img width="500" height="828" alt="image" src="https://github.com/user-attachments/assets/dbd3afd7-63e7-43f7-9019-d90c71883b7a" />
 
@@ -306,6 +356,97 @@ Enjoy🤗
 
 <details>
   <summary>6. 🏃🏽The Step-Challenge</summary>
+  
+  ---
+
+  This project is a **responsive fitness tracking application**, built with **HTML5, CSS3, and JavaScript (ES6)**.
+
+  👉 It was developed as a practice exercise in **DOM manipulation, REST API integration, CRUD operations, and interactive UI building**.
+
+  ⚠️ **Note**: The backend server ```(server.js)``` was **pre-built and provided** as part of the exercise. I did not implement the server itself – my work focused on the **front-end logic and UI**.
+
+  The app allows users to log their **daily steps and calories**, manage records, and update or remove entries. It can be used for educational purposes, as a demo project, or as a base for personal health/fitness apps.
+
+  ---
+
+  ## 🎯 Features
+
+   - Structured **Add Daily Record** form (name, steps, calories)
+
+   - **Load Records** button → fetches and displays all entries from the server
+
+   - **Add Record** → creates a new fitness record
+
+   - **Edit Record** → updates existing data after loading it back into the form
+
+   - **Delete Record** → permanently removes a record from the database
+
+   - Client-side validation (prevents empty submissions)
+
+   - Responsive design with styled cards and interactive buttons
+  
+  ---
+
+  ## 🛠️ Technologies Used
+
+  **HTML5** – page structure
+
+  **CSS3** – styling, gradients, responsive design, custom fonts & background images
+
+  **JavaScript (ES6)** – front-end logic:
+
+      - DOM manipulation and event handling
+
+      - CRUD operations with Fetch API (GET, POST, PATCH, DELETE)
+
+  **Node.js JSON Server** – provided backend for REST API (not developed by me)
+
+  **JSON Storage** – records saved in records.json
+
+  **Testing** – automated end-to-end tests with Playwright, Mocha, and Chai
+
+---
+
+## 📂 Project Structure
+
+ - **index.html** – main page with record list and input form
+
+ - **app.js** – JavaScript logic for record management (add, edit, delete, load)
+
+ - **style.css** – modern responsive styles, gradients, fonts
+
+ - **server.js** – pre-built server for REST API (provided, not my work)
+
+ - **records.json** – example dataset with step & calorie records
+
+ - **e2e.test.js** – end-to-end tests with Playwright
+
+ - **package.json** – dependencies & scripts (http-server, mocha, chai, playwright-chromium)
+
+ - **/img/** – background & UI assets (bg-img.png, shoe.png)
+
+---
+
+## 🚀 How It Works
+
+1.  User fills in Name, Steps, Calories.
+
+2.  Clicking Add Record sends a POST request and adds a new record.
+
+3.  Clicking Load Records fetches and shows all saved records.
+
+4.  Each record includes:
+
+   - Change (Edit) → loads data into the form for updating.
+
+   -  Delete → removes the record from the server and UI.
+
+5.  Edit Record button updates the entry (via PATCH request).
+
+--- 
+
+## 📷 Preview
+
 </details>
 
 
