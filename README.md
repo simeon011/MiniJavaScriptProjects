@@ -437,9 +437,9 @@ Enjoy🤗
 
 4.  Each record includes:
 
-  - Change (Edit) → loads data into the form for updating.
+- Change (Edit) → loads data into the form for updating.
 
-  -  Delete → removes the record from the server and UI.
+-  Delete → removes the record from the server and UI.
 
 5.  Edit Record button updates the entry (via PATCH request).
 
