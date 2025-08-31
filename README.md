@@ -451,7 +451,7 @@ Enjoy🤗
 </details>
 
 <details>
-  <summary>7. </summary>
+  <summary>7. Board Games Collection</summary>
 </details>
 
 
