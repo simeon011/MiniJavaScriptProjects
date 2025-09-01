@@ -451,7 +451,98 @@ Enjoy🤗
 </details>
 
 <details>
-  <summary>7. Board Games Collection</summary>
+  <summary>7. 🎲Board Games Collection</summary>
+
+  ---
+
+  This project is a **responsive board game management web application**, built with **HTML5, CSS3, and JavaScript (ES6)**.
+
+  👉 It was developed as a practice exercise to improve skills in **CRUD operations, REST API integration, DOM manipulation, and interactive UI design**.
+
+  ⚠️ **Note**: The backend server ```(server.js)``` was **pre-built and provided** as part of the exercise. I did not develop or modify the server logic – my work focused on the **front-end functionality and UI**.
+
+  The app allows users to **add, edit, delete, and view board games** in their collection, including details such as **name, type, and maximum players**.
+
+  ---
+
+  ## 🎯 Features
+
+   - Clean and structured **Add Game Form** (name, type, max players)
+
+   - **Load Games** → fetches and displays all board games from the server
+
+   - **Add Game** → create a new board game entry
+
+   - **Edit Game** → update existing game details
+
+   - **Delete Game** → permanently remove a game
+
+   - Form validation **(no empty submissions allowed)**
+
+   - Responsive design with board game–themed styles and assets
+  
+  ---
+
+  ## 🛠️ Technologies Used
+
+   - **HTML5** – structure of the app
+
+   - **CSS3** – board game–themed styling with custom backgrounds, gradients, fonts
+
+   - **JavaScript (ES6)** – app logic:
+
+   - CRUD operations with Fetch API (GET, POST, PUT, DELETE)
+
+   - Event listeners and DOM manipulation
+
+   - **Node.js JSON Server** – provided backend for REST API (not my work)
+
+   - **JSON Storage** – data persisted in games.json
+
+   - **Testing** – end-to-end tests with **Mocha, Chai, Playwright**
+  
+  ---
+
+  ## 📂 Project Structure
+
+   - **index.html** – main page with form and game list
+
+   - **app.js** – JavaScript CRUD logic
+
+   - **style.css** – responsive styles, board game theme
+
+   - **server.js** – pre-built backend server (provided, not developed by me)
+
+   - **games.json** – example dataset with board games
+
+   - **e2e.test.js** – end-to-end tests for functionality
+
+   - **package.json** – dependencies & scripts (http-server, mocha, chai, playwright)
+
+   - **/img/** – assets (```bg.png```, ```btn-image.png```, ```card.png```, ```form-bg.png```)
+  
+  ---
+
+  ## 🚀 How It Works
+
+  1. User fills in Game **Name, Type, Max Players**.
+
+  2. **Add Game** → sends a POST request to the server and reloads the list.
+
+  3. **Load Games** → fetches and displays all games.
+
+  4. Each game entry has:
+
+   - **Change (Edit)** → loads game data into the form for editing.
+
+   - **Delete** → removes the game from the collection.
+
+  5. Edit Game button updates the entry (via PUT request).
+
+---
+
+## 📷 Preview
+
 </details>
 
 
