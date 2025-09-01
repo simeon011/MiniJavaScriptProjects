@@ -491,9 +491,9 @@ Enjoy🤗
 
    - **JavaScript (ES6)** – app logic:
 
-   - CRUD operations with Fetch API (GET, POST, PUT, DELETE)
+     - CRUD operations with Fetch API (GET, POST, PUT, DELETE)
 
-   - Event listeners and DOM manipulation
+     - Event listeners and DOM manipulation
 
    - **Node.js JSON Server** – provided backend for REST API (not my work)
 
@@ -533,9 +533,9 @@ Enjoy🤗
 
   4. Each game entry has:
 
-   - **Change (Edit)** → loads game data into the form for editing.
+     - **Change (Edit)** → loads game data into the form for editing.
 
-   - **Delete** → removes the game from the collection.
+     - **Delete** → removes the game from the collection.
 
   5. Edit Game button updates the entry (via PUT request).
 
